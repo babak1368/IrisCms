@@ -15,7 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iris.Servicelayer", "Iris.S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iris.Utilities", "Iris.Common\Iris.Utilities.csproj", "{D02DF4DA-245D-43BF-AABC-E0A600DA92DA}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MyFolder", "MyFolder", "{1E82AB8B-D2D8-43FD-BC5E-BA75A788E990}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{348108D9-140C-4AD7-AD65-FB8B85FB4FA6}"
+	ProjectSection(SolutionItems) = preProject
+		TextFile1.txt = TextFile1.txt
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
