@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
-VisualStudioVersion = 12.0.31101.0
+VisualStudioVersion = 12.0.30501.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iris.Web", "Iris.Web\Iris.Web.csproj", "{933C5585-249D-42EC-9610-948847D9CD5E}"
 EndProject
@@ -14,6 +14,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iris.Servicelayer", "Iris.Servicelayer\Iris.Servicelayer.csproj", "{8D6411AC-8B18-4AAB-BD3B-44B788B2F93C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iris.Utilities", "Iris.Common\Iris.Utilities.csproj", "{D02DF4DA-245D-43BF-AABC-E0A600DA92DA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MyFolder", "MyFolder", "{1E82AB8B-D2D8-43FD-BC5E-BA75A788E990}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
